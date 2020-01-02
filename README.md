@@ -78,6 +78,8 @@ paginate = 5
   themeColor = "orange"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
+  # show selector to switch language
+  showLanguageSelector = false
   # set theme to full screen width
   fullWidthTheme = false
   # center theme with default width
@@ -87,6 +89,7 @@ paginate = 5
 
 [languages]
   [languages.en]
+    languageName = "English"
     title = "Terminal"
     subtitle = "A simple, retro theme for Hugo"
     keywords = ""
